@@ -25,6 +25,9 @@
 ### Đối với lần chạy bot tiếp theo
 - `proot-distro login ubuntu`
 - Sau đó `cd` vào file bot của bạn và nhập `npm start` là được
+### Update 16/04/2025
+- Mình share file free nhé, đến đoạn git clone trên video thì dán link này
+- `https://github.com/LunarKrystal/Mirai`
 
 ## Video: [CÁCH TREO BOT 24/7 BẰNG HOSTING FREE | SHARE FILE PHIÊN BẢN HOSTING FREE 2025](https://www.youtube.com/watch?v=QfHTNhqFEmM)
 ### Link Host mình sử dụng trong video: [HMV-Hosting](https://dash.hmvhostings.com/servers)
